@@ -1,0 +1,5 @@
+Defina o que é uma classe dentro da orientação a objetos:
+
+Uma classe pode ser entendida como uma classificação de coisas/objetos que possuem características e comportamentos em comum, que são semelhantes.
+Então na orientação a objetos uma classe é formada por propriedades e comportamentos que definem objetos.
+Na classe são definidas as características, que são os atributos, e também as funcionalidade, que são os métodos.
