@@ -1,0 +1,1 @@
+Sistema de gerenciamento para controlar a entrega de livros para os alunos, em uma Biblioteca escolar, dependendo da série em que o aluno se encontra. Ou seja, uma aluno do 2º ano só poderá pegar os livros referente a esta série e assim por diante.
